@@ -1,0 +1,8 @@
+Hier werde ich alles einfügen, was ich an der Version v7.02.07 verändern will und habe.
+
+
+Aktuell Projekt: 
+Entschlacken der Setupdatei
+Entfernen aller, für das System unnötigen Dinge (Artikel etc.)
+Dateien, welche nicht mehr in der Setupdatei vorhanden sind, sollen zur Infusion umgebaut werden, so das jeder User diese später einfach wieder hinzufügen kann
+
